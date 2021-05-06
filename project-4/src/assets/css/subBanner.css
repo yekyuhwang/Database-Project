@@ -1,0 +1,17 @@
+.subBanner {
+  width: 100%;
+  height: 400px;
+  background-color: #ccc;
+  box-shadow: 0 3px 5px #eee;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.subBanner .subBanner__title {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 600;
+}

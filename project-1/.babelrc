@@ -1,0 +1,8 @@
+{
+    "presets" : ["@babel/preset-env"]
+}
+
+// @babel/cli
+// @babel/core
+// @babel/node
+// presets -> 3개의 언어를 presets ( @babel/preset-env ) 가 번역해서 보여준다.
