@@ -6,5 +6,5 @@ HOME => "/" [x]
 
 USER LOGIN => [x]
 USER JOIN US => [x]
-USER PROFILE => [ ]
-USER EDIT => [ ]
+USER PROFILE => [x]
+USER EDIT => [x]
