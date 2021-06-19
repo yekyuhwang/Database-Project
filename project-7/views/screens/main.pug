@@ -1,0 +1,12 @@
+extends ../layouts/index.pug 
+
+block content 
+    each data in list 
+        h4 #{data.book_no}
+        h4 #{data.book_title}
+        h4 #{data.book_price} 
+        h4 #{data.book_author} 
+        h4 #{data.book_company} 
+        h4 #{data.book_summary} 
+        hr 
+        hr
